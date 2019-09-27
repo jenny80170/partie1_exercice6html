@@ -1,0 +1,54 @@
+#rectangleLimeGreen {
+  background-color: LimeGreen;
+  height: 50px;
+  width: 80%;
+  float: left;
+}
+#rectangleRoyalBlue {
+  background-color: RoyalBlue;
+  height: 50px;
+  width: 20%;
+  float: left;
+}
+#rectangleRed {
+  background-color: red;
+  height: 150px;
+  width: 35%;
+  float: left;
+}
+#rectangleDarkOrange {
+  background-color: darkorange;
+  height: 70px;
+  width: 35%;
+  float: left;
+}
+#rectangleCadetBlue {
+  background-color: cadetBlue;
+  height: 70px;
+  width: 30%;
+  float: left;
+}
+#rectangleOrange {
+  background-color: orange;
+  height: 80px;
+  width: 20%;
+  float: left;
+}
+#rectangleDarkCyan {
+  background-color: darkcyan;
+  height: 80px;
+  width: 20%;
+  float: left;
+}
+#rectangleOrangeRed {
+  background-color: orangeRed;
+  height: 80px;
+  width: 25%;
+  float: left;
+}
+#rectangleDarkSlateBlue {
+  background-color: #0B243B;
+  height: 220px;
+  width: 100%;
+  float: left;
+}
